@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=D:/Kirill/Files/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\LR_2\rev_dynamic
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=D:/Kirill/Files/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\Revers_lr2\rev_dynamic
 -- The C compiler identification is GNU 4.8.1
 -- The CXX compiler identification is GNU 4.8.1
 -- Check for working C compiler: D:/Kirill/Files/mingw64/bin/gcc.exe
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug
+-- Build files have been written to: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug

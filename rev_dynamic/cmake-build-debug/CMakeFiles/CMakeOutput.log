@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: D:/Kirill/Files/mingw64/bin/g++.exe 
@@ -23,39 +23,39 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_896c3/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_896c3.dir\build.make CMakeFiles/cmTC_896c3.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_896c3.dir/testCCompiler.c.obj
-D:\Kirill\Files\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_896c3.dir\testCCompiler.c.obj   -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\LR_2\rev_dynamic\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
-Linking C executable cmTC_896c3.exe
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_896c3.dir\link.txt --verbose=1
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_896c3.dir/objects.a
-D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_896c3.dir/objects.a @CMakeFiles\cmTC_896c3.dir\objects1.rsp
-D:\Kirill\Files\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_896c3.dir/objects.a -Wl,--no-whole-archive  -o cmTC_896c3.exe -Wl,--out-implib,libcmTC_896c3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_896c3.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_7d860/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_7d860.dir\build.make CMakeFiles/cmTC_7d860.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7d860.dir/testCCompiler.c.obj
+D:\Kirill\Files\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_7d860.dir\testCCompiler.c.obj   -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\Revers_lr2\rev_dynamic\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_7d860.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_7d860.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_7d860.dir/objects.a
+D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_7d860.dir/objects.a @CMakeFiles\cmTC_7d860.dir\objects1.rsp
+D:\Kirill\Files\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_7d860.dir/objects.a -Wl,--no-whole-archive  -o cmTC_7d860.exe -Wl,--out-implib,libcmTC_7d860.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_7d860.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_c6373/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c6373.dir\build.make CMakeFiles/cmTC_c6373.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c6373.dir/CMakeCCompilerABI.c.obj
-D:\Kirill\Files\mingw64\bin\gcc.exe   -v -o CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"
+Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_c3e2b/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c3e2b.dir\build.make CMakeFiles/cmTC_c3e2b.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c3e2b.dir/CMakeCCompilerABI.c.obj
+D:\Kirill\Files\mingw64\bin\gcc.exe   -v -o CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"
 Using built-in specs.
 COLLECT_GCC=D:\Kirill\Files\mingw64\bin\gcc.exe
 Target: x86_64-w64-mingw32
 Configured with: ../../../src/gcc-4.8.1/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/tmp/x64-481-posix-sjlj-r5/mingw64 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=ada,c,c++,fortran,objc,obj-c++,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-isl-version-check --disable-cloog-version-check --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-32=i686 --with-arch-64=nocona --with-tune-32=generic --with-tune-64=core2 --with-libiconv --with-system-zlib --with-gmp=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpfr=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpc=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-isl=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-cloog=/tmp/mingw-prereq/x86_64-w64-mingw32-static --enable-cloog-backend=isl --with-pkgversion='rev5, Built by MinGW-W64 project' --with-bugurl=http://sourceforge.net/projects/mingw-w64 CFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CXXFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CPPFLAGS= LDFLAGS='-pipe -L/tmp/x64-481-posix-sjlj-r5/libs/lib -L/tmp/mingw-prereq/x64-zlib/lib -L/tmp/mingw-prereq/x86_64-w64-mingw32-static/lib -L/tmp/x64-481-posix-sjlj-r5/mingw64/opt/lib '
 Thread model: posix
 gcc version 4.8.1 (rev5, Built by MinGW-W64 project) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cccRB7BQ.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cckYOpri.s
 GNU C (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)
 	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -74,17 +74,17 @@ GNU C (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)
 	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 7412cf5322d951a7e19199da04c501fc
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj C:\Users\C523~1\AppData\Local\Temp\cccRB7BQ.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj C:\Users\C523~1\AppData\Local\Temp\cckYOpri.s
 GNU assembler version 2.23.2 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.23.2
 COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../libexec/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../lib/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
-Linking C executable cmTC_c6373.exe
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c6373.dir\link.txt --verbose=1
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c6373.dir/objects.a
-D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c6373.dir/objects.a @CMakeFiles\cmTC_c6373.dir\objects1.rsp
-D:\Kirill\Files\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c6373.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c6373.exe -Wl,--out-implib,libcmTC_c6373.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+Linking C executable cmTC_c3e2b.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c3e2b.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c3e2b.dir/objects.a
+D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c3e2b.dir/objects.a @CMakeFiles\cmTC_c3e2b.dir\objects1.rsp
+D:\Kirill\Files\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c3e2b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c3e2b.exe -Wl,--out-implib,libcmTC_c3e2b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=D:\Kirill\Files\mingw64\bin\gcc.exe
 COLLECT_LTO_WRAPPER=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/lto-wrapper.exe
@@ -94,9 +94,9 @@ Thread model: posix
 gcc version 4.8.1 (rev5, Built by MinGW-W64 project) 
 COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../libexec/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../lib/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c6373.exe' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_c6373.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_c6373.dir/objects.a --no-whole-archive --out-implib libcmTC_c6373.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o
-mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c3e2b.exe' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_c3e2b.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_c3e2b.dir/objects.a --no-whole-archive --out-implib libcmTC_c3e2b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o
+mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
@@ -115,20 +115,20 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_c6373/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c6373.dir\build.make CMakeFiles/cmTC_c6373.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_c6373.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [D:\Kirill\Files\mingw64\bin\gcc.exe   -v -o CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_c3e2b/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c3e2b.dir\build.make CMakeFiles/cmTC_c3e2b.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_c3e2b.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [D:\Kirill\Files\mingw64\bin\gcc.exe   -v -o CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=D:\Kirill\Files\mingw64\bin\gcc.exe]
   ignore line: [Target: x86_64-w64-mingw32]
   ignore line: [Configured with: ../../../src/gcc-4.8.1/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/tmp/x64-481-posix-sjlj-r5/mingw64 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=ada,c,c++,fortran,objc,obj-c++,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-isl-version-check --disable-cloog-version-check --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-32=i686 --with-arch-64=nocona --with-tune-32=generic --with-tune-64=core2 --with-libiconv --with-system-zlib --with-gmp=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpfr=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpc=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-isl=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-cloog=/tmp/mingw-prereq/x86_64-w64-mingw32-static --enable-cloog-backend=isl --with-pkgversion='rev5, Built by MinGW-W64 project' --with-bugurl=http://sourceforge.net/projects/mingw-w64 CFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CXXFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CPPFLAGS= LDFLAGS='-pipe -L/tmp/x64-481-posix-sjlj-r5/libs/lib -L/tmp/mingw-prereq/x64-zlib/lib -L/tmp/mingw-prereq/x86_64-w64-mingw32-static/lib -L/tmp/x64-481-posix-sjlj-r5/mingw64/opt/lib ']
   ignore line: [Thread model: posix]
   ignore line: [gcc version 4.8.1 (rev5, Built by MinGW-W64 project) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
-  ignore line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cccRB7BQ.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
+  ignore line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cckYOpri.s]
   ignore line: [GNU C (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)]
   ignore line: [	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -147,8 +147,8 @@ Parsed C implicit link information from above output:
   ignore line: [	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 7412cf5322d951a7e19199da04c501fc]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
-  ignore line: [ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj C:\Users\C523~1\AppData\Local\Temp\cccRB7BQ.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
+  ignore line: [ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj C:\Users\C523~1\AppData\Local\Temp\cckYOpri.s]
   ignore line: [GNU assembler version 2.23.2 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.23.2]
   ignore line: [COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/]
   ignore line: [d:/kirill/files/mingw64/bin/../libexec/gcc/]
@@ -159,12 +159,12 @@ Parsed C implicit link information from above output:
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c6373.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
-  ignore line: [Linking C executable cmTC_c6373.exe]
-  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c6373.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c6373.dir/objects.a]
-  ignore line: [D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c6373.dir/objects.a @CMakeFiles\cmTC_c6373.dir\objects1.rsp]
-  ignore line: [D:\Kirill\Files\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c6373.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c6373.exe -Wl,--out-implib,libcmTC_c6373.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_c3e2b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona']
+  ignore line: [Linking C executable cmTC_c3e2b.exe]
+  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c3e2b.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c3e2b.dir/objects.a]
+  ignore line: [D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c3e2b.dir/objects.a @CMakeFiles\cmTC_c3e2b.dir\objects1.rsp]
+  ignore line: [D:\Kirill\Files\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c3e2b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c3e2b.exe -Wl,--out-implib,libcmTC_c3e2b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=D:\Kirill\Files\mingw64\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/lto-wrapper.exe]
@@ -181,15 +181,15 @@ Parsed C implicit link information from above output:
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c6373.exe' '-mtune=core2' '-march=nocona']
-  link line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_c6373.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_c6373.dir/objects.a --no-whole-archive --out-implib libcmTC_c6373.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c3e2b.exe' '-mtune=core2' '-march=nocona']
+  link line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_c3e2b.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_c3e2b.dir/objects.a --no-whole-archive --out-implib libcmTC_c3e2b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
     arg [d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe] ==> ignore
     arg [--sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64] ==> ignore
     arg [-m] ==> ignore
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_c6373.exe] ==> ignore
+    arg [cmTC_c3e2b.exe] ==> ignore
     arg [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> ignore
     arg [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o] ==> ignore
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1]
@@ -199,10 +199,10 @@ Parsed C implicit link information from above output:
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib]
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../..] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_c6373.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_c3e2b.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_c6373.dll.a] ==> ignore
+    arg [libcmTC_c3e2b.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -242,36 +242,36 @@ Parsed C implicit link information from above output:
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_83b94/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_83b94.dir\build.make CMakeFiles/cmTC_83b94.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_83b94.dir/testCXXCompiler.cxx.obj
-D:\Kirill\Files\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_83b94.dir\testCXXCompiler.cxx.obj -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\LR_2\rev_dynamic\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-Linking CXX executable cmTC_83b94.exe
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_83b94.dir\link.txt --verbose=1
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_83b94.dir/objects.a
-D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_83b94.dir/objects.a @CMakeFiles\cmTC_83b94.dir\objects1.rsp
-D:\Kirill\Files\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_83b94.dir/objects.a -Wl,--no-whole-archive  -o cmTC_83b94.exe -Wl,--out-implib,libcmTC_83b94.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_83b94.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_be75e/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_be75e.dir\build.make CMakeFiles/cmTC_be75e.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_be75e.dir/testCXXCompiler.cxx.obj
+D:\Kirill\Files\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_be75e.dir\testCXXCompiler.cxx.obj -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\Revers_lr2\rev_dynamic\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_be75e.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_be75e.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_be75e.dir/objects.a
+D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_be75e.dir/objects.a @CMakeFiles\cmTC_be75e.dir\objects1.rsp
+D:\Kirill\Files\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_be75e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_be75e.exe -Wl,--out-implib,libcmTC_be75e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_be75e.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_773f5/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_773f5.dir\build.make CMakeFiles/cmTC_773f5.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_773f5.dir/CMakeCXXCompilerABI.cpp.obj
-D:\Kirill\Files\mingw64\bin\g++.exe    -v -o CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"
+Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_d5d68/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d5d68.dir\build.make CMakeFiles/cmTC_d5d68.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d5d68.dir/CMakeCXXCompilerABI.cpp.obj
+D:\Kirill\Files\mingw64\bin\g++.exe    -v -o CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"
 Using built-in specs.
 COLLECT_GCC=D:\Kirill\Files\mingw64\bin\g++.exe
 Target: x86_64-w64-mingw32
 Configured with: ../../../src/gcc-4.8.1/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/tmp/x64-481-posix-sjlj-r5/mingw64 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=ada,c,c++,fortran,objc,obj-c++,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-isl-version-check --disable-cloog-version-check --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-32=i686 --with-arch-64=nocona --with-tune-32=generic --with-tune-64=core2 --with-libiconv --with-system-zlib --with-gmp=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpfr=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpc=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-isl=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-cloog=/tmp/mingw-prereq/x86_64-w64-mingw32-static --enable-cloog-backend=isl --with-pkgversion='rev5, Built by MinGW-W64 project' --with-bugurl=http://sourceforge.net/projects/mingw-w64 CFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CXXFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CPPFLAGS= LDFLAGS='-pipe -L/tmp/x64-481-posix-sjlj-r5/libs/lib -L/tmp/mingw-prereq/x64-zlib/lib -L/tmp/mingw-prereq/x86_64-w64-mingw32-static/lib -L/tmp/x64-481-posix-sjlj-r5/mingw64/opt/lib '
 Thread model: posix
 gcc version 4.8.1 (rev5, Built by MinGW-W64 project) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1plus.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\C523~1\AppData\Local\Temp\ccPiXkCx.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1plus.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cc7omGJ8.s
 GNU C++ (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)
 	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -296,17 +296,17 @@ GNU C++ (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)
 	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: bb92805eaa4faa41c698a9cedc6a5474
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\C523~1\AppData\Local\Temp\ccPiXkCx.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\C523~1\AppData\Local\Temp\cc7omGJ8.s
 GNU assembler version 2.23.2 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.23.2
 COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../libexec/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../lib/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
-Linking CXX executable cmTC_773f5.exe
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_773f5.dir\link.txt --verbose=1
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_773f5.dir/objects.a
-D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_773f5.dir/objects.a @CMakeFiles\cmTC_773f5.dir\objects1.rsp
-D:\Kirill\Files\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_773f5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_773f5.exe -Wl,--out-implib,libcmTC_773f5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+Linking CXX executable cmTC_d5d68.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d5d68.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d5d68.dir/objects.a
+D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_d5d68.dir/objects.a @CMakeFiles\cmTC_d5d68.dir\objects1.rsp
+D:\Kirill\Files\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_d5d68.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d5d68.exe -Wl,--out-implib,libcmTC_d5d68.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=D:\Kirill\Files\mingw64\bin\g++.exe
 COLLECT_LTO_WRAPPER=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/lto-wrapper.exe
@@ -316,9 +316,9 @@ Thread model: posix
 gcc version 4.8.1 (rev5, Built by MinGW-W64 project) 
 COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../libexec/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/;d:/kirill/files/mingw64/bin/../lib/gcc/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/;d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773f5.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
- d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_773f5.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_773f5.dir/objects.a --no-whole-archive --out-implib libcmTC_773f5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o
-mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d5d68.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_d5d68.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_d5d68.dir/objects.a --no-whole-archive --out-implib libcmTC_d5d68.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o
+mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
@@ -343,20 +343,20 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_773f5/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_773f5.dir\build.make CMakeFiles/cmTC_773f5.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_773f5.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [D:\Kirill\Files\mingw64\bin\g++.exe    -v -o CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_d5d68/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d5d68.dir\build.make CMakeFiles/cmTC_d5d68.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_d5d68.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [D:\Kirill\Files\mingw64\bin\g++.exe    -v -o CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=D:\Kirill\Files\mingw64\bin\g++.exe]
   ignore line: [Target: x86_64-w64-mingw32]
   ignore line: [Configured with: ../../../src/gcc-4.8.1/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/tmp/x64-481-posix-sjlj-r5/mingw64 --enable-shared --enable-static --enable-targets=all --enable-multilib --enable-languages=ada,c,c++,fortran,objc,obj-c++,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-sjlj-exceptions --disable-isl-version-check --disable-cloog-version-check --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch-32=i686 --with-arch-64=nocona --with-tune-32=generic --with-tune-64=core2 --with-libiconv --with-system-zlib --with-gmp=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpfr=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-mpc=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-isl=/tmp/mingw-prereq/x86_64-w64-mingw32-static --with-cloog=/tmp/mingw-prereq/x86_64-w64-mingw32-static --enable-cloog-backend=isl --with-pkgversion='rev5, Built by MinGW-W64 project' --with-bugurl=http://sourceforge.net/projects/mingw-w64 CFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CXXFLAGS='-O2 -pipe -I/tmp/x64-481-posix-sjlj-r5/libs/include -I/tmp/mingw-prereq/x64-zlib/include -I/tmp/mingw-prereq/x86_64-w64-mingw32-static/include' CPPFLAGS= LDFLAGS='-pipe -L/tmp/x64-481-posix-sjlj-r5/libs/lib -L/tmp/mingw-prereq/x64-zlib/lib -L/tmp/mingw-prereq/x86_64-w64-mingw32-static/lib -L/tmp/x64-481-posix-sjlj-r5/mingw64/opt/lib ']
   ignore line: [Thread model: posix]
   ignore line: [gcc version 4.8.1 (rev5, Built by MinGW-W64 project) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  ignore line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1plus.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\C523~1\AppData\Local\Temp\ccPiXkCx.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  ignore line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/cc1plus.exe -quiet -v -iprefix d:\kirill\files\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/ -D_REENTRANT C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\C523~1\AppData\Local\Temp\cc7omGJ8.s]
   ignore line: [GNU C++ (rev5, Built by MinGW-W64 project) version 4.8.1 (x86_64-w64-mingw32)]
   ignore line: [	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -381,8 +381,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [	compiled by GNU C version 4.8.1, GMP version 5.1.2, MPFR version 3.1.2, MPC version 1.0.1]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: bb92805eaa4faa41c698a9cedc6a5474]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  ignore line: [ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\C523~1\AppData\Local\Temp\ccPiXkCx.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  ignore line: [ d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\C523~1\AppData\Local\Temp\cc7omGJ8.s]
   ignore line: [GNU assembler version 2.23.2 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.23.2]
   ignore line: [COMPILER_PATH=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/]
   ignore line: [d:/kirill/files/mingw64/bin/../libexec/gcc/]
@@ -393,12 +393,12 @@ Parsed CXX implicit link information from above output:
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_773f5.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  ignore line: [Linking CXX executable cmTC_773f5.exe]
-  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_773f5.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_773f5.dir/objects.a]
-  ignore line: [D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_773f5.dir/objects.a @CMakeFiles\cmTC_773f5.dir\objects1.rsp]
-  ignore line: [D:\Kirill\Files\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_773f5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_773f5.exe -Wl,--out-implib,libcmTC_773f5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d5d68.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  ignore line: [Linking CXX executable cmTC_d5d68.exe]
+  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d5d68.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d5d68.dir/objects.a]
+  ignore line: [D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_d5d68.dir/objects.a @CMakeFiles\cmTC_d5d68.dir\objects1.rsp]
+  ignore line: [D:\Kirill\Files\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_d5d68.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d5d68.exe -Wl,--out-implib,libcmTC_d5d68.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=D:\Kirill\Files\mingw64\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/lto-wrapper.exe]
@@ -415,15 +415,15 @@ Parsed CXX implicit link information from above output:
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773f5.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  link line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_773f5.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_773f5.dir/objects.a --no-whole-archive --out-implib libcmTC_773f5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d5d68.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  link line: [ d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe --sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64 -m i386pep -Bdynamic -o cmTC_d5d68.exe d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1 -Ld:/kirill/files/mingw64/bin/../lib/gcc -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib -Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTC_d5d68.dir/objects.a --no-whole-archive --out-implib libcmTC_d5d68.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
     arg [d:/kirill/files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.1/collect2.exe] ==> ignore
     arg [--sysroot=C:/Temp/msys64/tmp/x64-481-posix-sjlj-r5/mingw64] ==> ignore
     arg [-m] ==> ignore
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_773f5.exe] ==> ignore
+    arg [cmTC_d5d68.exe] ==> ignore
     arg [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> ignore
     arg [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o] ==> ignore
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1]
@@ -433,10 +433,10 @@ Parsed CXX implicit link information from above output:
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/lib]
     arg [-Ld:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../..] ==> dir [d:/kirill/files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_773f5.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_d5d68.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_773f5.dll.a] ==> ignore
+    arg [libcmTC_d5d68.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -477,18 +477,18 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1y] compiler features compiled with the following output:
-Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_f799f/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f799f.dir\build.make CMakeFiles/cmTC_f799f.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f799f.dir/feature_tests.cxx.obj
-D:\Kirill\Files\mingw64\bin\g++.exe    -std=c++1y -o CMakeFiles\cmTC_f799f.dir\feature_tests.cxx.obj -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\LR_2\rev_dynamic\cmake-build-debug\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_f799f.exe
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f799f.dir\link.txt --verbose=1
-"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_f799f.dir/objects.a
-D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_f799f.dir/objects.a @CMakeFiles\cmTC_f799f.dir\objects1.rsp
-D:\Kirill\Files\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_f799f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f799f.exe -Wl,--out-implib,libcmTC_f799f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f799f.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command(s):D:/Kirill/Files/mingw64/bin/mingw32-make.exe cmTC_475f2/fast && D:/Kirill/Files/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_475f2.dir\build.make CMakeFiles/cmTC_475f2.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_475f2.dir/feature_tests.cxx.obj
+D:\Kirill\Files\mingw64\bin\g++.exe    -std=c++1y -o CMakeFiles\cmTC_475f2.dir\feature_tests.cxx.obj -c D:\Kirill\VUZ\5_Semestr\Revers\4stud_2020\LR2\Revers_lr2\rev_dynamic\cmake-build-debug\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_475f2.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_475f2.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_475f2.dir/objects.a
+D:\Kirill\Files\mingw64\bin\ar.exe cr CMakeFiles\cmTC_475f2.dir/objects.a @CMakeFiles\cmTC_475f2.dir\objects1.rsp
+D:\Kirill\Files\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_475f2.dir/objects.a -Wl,--no-whole-archive  -o cmTC_475f2.exe -Wl,--out-implib,libcmTC_475f2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_475f2.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 

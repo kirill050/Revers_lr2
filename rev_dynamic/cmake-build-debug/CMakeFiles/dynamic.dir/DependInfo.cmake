@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/rev_dynamic.cpp" "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/CMakeFiles/dynamic.dir/rev_dynamic.cpp.obj"
+  "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/rev_dynamic.cpp" "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/CMakeFiles/dynamic.dir/rev_dynamic.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

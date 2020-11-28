@@ -1,4 +1,4 @@
-# Install script for directory: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic
+# Install script for directory: D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/Revers_lr2/rev_dynamic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
