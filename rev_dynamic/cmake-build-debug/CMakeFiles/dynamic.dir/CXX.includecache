@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/LR2/LR_2/rev_dynamic/rev_dynamic.cpp
+iostream
+-
+cstdlib
+-
+
